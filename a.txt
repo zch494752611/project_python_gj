@@ -1,4 +1,4 @@
-print hallo world
+print python
 i love python
 nonono
 hallo python
