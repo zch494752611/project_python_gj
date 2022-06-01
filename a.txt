@@ -1,4 +1,3 @@
 print aaa
-i love python
-nonono
 hallo python
+hallo java
